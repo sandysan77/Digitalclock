@@ -1,0 +1,33 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(84,119,193,0.9389880952380952) 57%, rgba(0,212,255,1) 100%);
+}
+
+#callme{
+    
+    border-style: solid;
+    font-size: 50px;
+    margin-top: 250px;
+    margin-left: 450px;
+    padding: 20px;
+    color:#FFF;
+    width: fit-content;
+
+}
+
+span{
+    color: rgb(202, 51, 51);
+    background: none;
+}
+
+#click{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#getValues{
+   color: chartreuse;
+    margin-top: 50px;
+    text-align: center;
+    
+}
